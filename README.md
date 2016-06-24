@@ -8,3 +8,6 @@ Some links with further information:
 * http://wiki.openstreetmap.org/wiki/California/Cycling_Relations
 * http://wiki.openstreetmap.org/wiki/Cycle_routes
 * http://wiki.openstreetmap.org/wiki/United_States/Bicycle_Networks
+* https://data.lacounty.gov/Shape-Files/LA-County-Bikeways/brdh-e23g
+* https://data.lacity.org/A-Livable-and-Sustainable-City/Bikelanes/uzvv-a9xz
+* http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0
