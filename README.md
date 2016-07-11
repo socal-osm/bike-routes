@@ -6,6 +6,7 @@ Bike route data on OpenStreetMap for LA County is sporadic and seems to be based
 * NCN: USBR 66 would be national. It is still only proposed, but seems to already be tagged on OSM. Should this be retagged?
 * RCN: does California have any recognized regional routes?
 * LCN: the named bike paths listed [on Wikipedia](https://en.wikipedia.org/wiki/List_of_Los_Angeles_bike_paths), ensuring that the names used match the signage (for example, the new Expo line path is signed as "Expo Bike Path" rather than "Expo Bikeway")
+* Unnamed routes (typically Class II / III)
 
 Need to somehow separate Class I (actual bike paths) from Class II (painted lane on side of the road) and Class III (sharrows and/or occasional signs next to the road, i.e. largely meaningless).
 
