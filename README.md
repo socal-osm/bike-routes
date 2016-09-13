@@ -23,3 +23,4 @@ Some links with further information:
 * http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0
 * https://en.wikipedia.org/wiki/List_of_Los_Angeles_bike_paths
 * http://bike.lacity.org/
+* https://github.com/CityofSantaMonica/GIS/tree/master/transportation/bicycle
