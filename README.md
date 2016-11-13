@@ -2,7 +2,9 @@
 Bike route data on OpenStreetMap for LA County is sporadic and seems to be based on varying standards. Import current County and City datasets and update existing information.
 
 ## Class Tags / Terminology
+
 Relations
+
 | OSM Relation | Description | Notes |
 | --- | --- | --- | --- | --- |
 | ICN | International Cycling Network | None in the LA area. |
@@ -12,6 +14,7 @@ Relations
 | (none) | Unnamed Bike Routes | Any other bike routes shouldn't be marked with relations. |
 
 Object Tags
+
 | [OSM Tag](http://wiki.openstreetmap.org/wiki/Bicycle) | LA Metro Tag | LA City Tag | Notes |
 | --- | --- | --- | --- |
 | highway=cycleway | Class I | Bike Path | Separated bike path. Should normally have relation. |
